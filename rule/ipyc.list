@@ -68,9 +68,6 @@ DOMAIN,api.taptapdada.com,IP
 # ======= 网易大神 ======= #
 DOMAIN,god.gameyw.netease.com,IP
 
-# ======= 虎牙 ======= #
-DOMAIN-SUFFIX,huya.com,IP
-
 # ======= 懂球帝 ======= #
 DOMAIN-SUFFIX,dongqiudi.com,IP
 
