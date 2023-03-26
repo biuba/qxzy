@@ -1,7 +1,6 @@
 
 # ======= 微博 ======= #
-DOMAIN,api.weibo.cn,IP
-DOMAIN,api.weibo.com,IP 
+DOMAIN,api.weibo.cn,IP 
 DOMAIN-SUFFIX,weibocdn.com,IP 
 DOMAIN-KEYWORD,weibo,IP 
 
