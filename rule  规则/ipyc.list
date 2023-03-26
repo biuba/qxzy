@@ -1,8 +1,9 @@
 
 # ======= 微博 ======= #
-DOMAIN-SUFFIX,weibocdn.com,IP 
-DOMAIN-KEYWORD,weibo,IP 
-
+DOMAIN,api.weibo.cn,direct
+DOMAIN,api.weibo.com,direct 
+DOMAIN-SUFFIX,weibocdn.com,direct 
+DOMAIN-KEYWORD,weibo,direct
 # ======= 百度贴吧 ======= #
 DOMAIN,tieba.baidu.com,IP 
 DOMAIN,tbmsg.baidu.com,IP 
