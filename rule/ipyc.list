@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,ixigua.com,IP
 DOMAIN,www.wenshushu.cn,IP
 
 # ======= 酷安 ======= #
-DOMAIN,api.coolapk.com,IP
+DOMAIN,api.coolapk.com,direct
 
 # ======= 豆瓣 ======= #
 # 网页端
