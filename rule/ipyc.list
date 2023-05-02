@@ -105,3 +105,7 @@ IP-CIDR,59.111.19.53/32,IP
 
 # ======= 米游社 ======= #
 DOMAIN,bbs-api.mihoyo.com,IP
+#--------小红书---------#
+HOST-SUFFIX,fengkongcloud.com,IP
+HOST-SUFFIX,xhscdn.com,IP
+HOST-SUFFIX,xiaohongshu.com,IP
