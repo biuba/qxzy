@@ -12,12 +12,6 @@ DOMAIN,fclog.baidu.com,IP
 DOMAIN,gsp0.baidu.com,IP
 DOMAIN,hm.baidu.com,IP 
 DOMAIN,www.baidu.com,IP
- 
-# ======= 微信 ======= #
-DOMAIN,szshort.weixin.qq.com,direct
-DOMAIN,szextshort.weixin.qq.com,direct
-DOMAIN,szminorshort.weixin.qq.com,direct
-DOMAIN,mp.weixin.qq.com,direct
 
 # ======= 知乎 ======= #
 #DOMAIN,zhihu-web-analytics.zhihu.com,IP
