@@ -48,9 +48,6 @@ DOMAIN-SUFFIX,ixigua.com,IP
 # ======= 文叔叔 ======= #
 DOMAIN,www.wenshushu.cn,IP
 
-# ======= 酷安 ======= #
-DOMAIN,api.coolapk.com,direct
-
 # ======= 豆瓣 ======= #
 # 网页端
 DOMAIN,www.douban.com,IP
